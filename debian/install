@@ -1,1 +1,2 @@
-bonarr_bin/* opt/NzbDrone
+bonarr_bin/* usr/lib/bonarr/bin
+package_info usr/lib/bonarr
